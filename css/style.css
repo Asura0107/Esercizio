@@ -1,0 +1,139 @@
+/* Your styles here */
+body {
+  width: 450px;
+  margin-inline: auto;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 1px;
+  font-weight: 400;
+  line-height: 1.65;
+  font-size: 1.2rem;
+  box-shadow: 0px 1px 5px;
+}
+header img {
+  width: 180px;
+  margin: 40px;
+}
+nav {
+  background-image: url(../images/banner.jpg);
+  height: 450px;
+  width: 100%;
+  background-size: cover;
+  box-sizing: border-box;
+  padding: 30px;
+}
+button {
+  background-color: #f04c2f;
+  border: 1px solid #f04c2f;
+  border-radius: 4px;
+  color: white;
+  width: 150px;
+  height: 42px;
+  margin: 50px 0 10px;
+  font-weight: 600;
+}
+.press:hover {
+  background-color: #e09486;
+}
+header h1 {
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  font-size: 2rem;
+  margin: 10px 0 30px;
+  padding: 10px;
+  color: #25a2c3;
+}
+h2 {
+  font-size: 1.8rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+h3 {
+  font-size: 1.4rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #25a2c3;
+}
+img {
+  width: 100%;
+}
+dl {
+  color: #c8e7f0;
+}
+footer {
+  color: white;
+  background-color: #25a2c3;
+}
+footer h1 {
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  padding: 40px;
+}
+footer a {
+  color: #c8e7f0;
+}
+footer dl {
+  margin: 10px 0 30px;
+}
+footer p {
+  padding: 20px 0 60px;
+}
+hr {
+  width: 300px;
+}
+.img2 {
+  border-radius: 50%;
+}
+.section2 {
+  background-color: #e22d0e;
+  border: 2px solid #e22d0e;
+  color: white;
+}
+.section2 h2 {
+  margin: 30px 5px 30px;
+}
+.section2 blockquote {
+  margin: 30px 0px 30px;
+}
+.section2 span {
+  font-size: 0.9rem;
+}
+.section2 p {
+  margin: 0 0 30px;
+}
+
+.section2 h3 {
+  color: white;
+  font-weight: 400;
+}
+
+.img-logo {
+  background-color: black;
+  display: block;
+}
+.section1 div {
+  margin: 40px 30px 40px;
+}
+.section1 img {
+  margin: 20px 0 20px;
+  width: 300px;
+}
+.scheda1,
+.scheda2,
+.scheda3 {
+  border: 1px solid #dee1e3;
+  margin: 40px 10px 40px;
+  border-radius: 8px;
+}
+.section3 h3 {
+  margin: 20px 0 20px;
+}
+.section3 p {
+  margin: 20px 7px 30px;
+  padding: 5px;
+}
+.section3 {
+  margin: 80px 5px 80px;
+}
