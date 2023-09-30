@@ -67,7 +67,11 @@ footer h1 {
   font-weight: bold;
   font-family: "Montserrat", sans-serif;
   font-size: 2rem;
-  padding: 40px;
+  padding: 40px 0 40px;
+}
+footer div {
+  text-align: left;
+  margin-left: 40%;
 }
 footer a {
   color: #c8e7f0;
