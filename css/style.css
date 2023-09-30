@@ -96,6 +96,7 @@ hr {
 }
 .section2 blockquote {
   margin: 30px 0px 30px;
+  font-style: italic;
 }
 .section2 span {
   font-size: 0.9rem;
